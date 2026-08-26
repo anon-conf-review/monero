@@ -1,3 +1,6 @@
+# CloackChain Public Wallet
+Contains customized Monero wallet implementation for CloackChain.
+
 # Monero
 
 Copyright (c) 2014-2023, The Monero Project
